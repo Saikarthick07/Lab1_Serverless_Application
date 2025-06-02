@@ -1,6 +1,6 @@
 # Azure Functions Integration – Blob Storage & SQL Database (Python)
 
-Video Demo: 
+Video Demo:  https://youtu.be/3TTTXeQMjIA 
 
 
 This project includes two Azure Functions built in Python using Visual Studio Code:
